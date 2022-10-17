@@ -8,7 +8,7 @@
 - 0/2 Utilisation correcte des librairies selon les documents du cours: 0 - pas du tout, 1 - la plupart du temps, 2 - toujours
 - 0/2 Choix des noms des méthodes: 0 - trop court, 1 - des fois adéquats, 2 - toujours un nom utile
 - 0/2 Déclaration et utilisation de constantes ou variables: 1 pour seulement variables globales nécessaires, 1 pour bonnes types de variables (bool, int, enum)
-- 0/2 Structure et découpe en méthodes: 0 - une seule fonction main, 1 - quelques méthodes, 2 - bonne séparation en méthodes, éventuellement fichiers
+- 0/2 Structure et découpe en méthodes: 0 - une seule fonction main, 1 - quelques méthodes, 2 - bonne séparation en méthodes et fichiers
 - 0/2 qualité des paramètres: 1 - type adéquats (références, valeurs, const), 1 - paramètres utiles
 - 0/2 Qualité et choix des algorithmes pour la partie obligatoire du projet
 - 0/2 Utilisation correcte de GitHub: 1 pour README.md, 1 pour accessibilité au répo
@@ -17,16 +17,14 @@
 
 ## PROPRE À CE LABO :
 
-- 0/4 Calcul correct: 2 - un point du Mandelbrot, 1 - un vecteur avec X1Y1 et X2Y2, 1 - un vecteur avec XCYC et dXdY
+- 0/4 Calcul correct de la partie gagnante: 2 - pour évaluation horizontal / vertical, 2 - pour évaluation diagonale
 - 0/4 Affichage du résultat: 1-2 - ça marche, 3-4 - c'est joli
-- 0/4 Animation visible: 2 pour animation (fréquence), 2 pour choix de 'graphisme'
-- 0/4 Autres algorithmes: 2 pour Tricorn (^-2), 2 pour Julia set
 
 ## BONUS:
 
-- 0/4 Affichage en couleurs
-- 0/4 Affichage en graphique
-- 0/4 Laisser l'utilisateur naviguer l'animation
+- 0/4 Jouer contre l'ordinateur: 2 - pour aléatoire, 2 - pour stratégie
+- 0/4 Couleurs pour l'affichage
+- 0/4 Avec choix de la taille du plateau au début
 
 ## PÉNALITÉS DIVERSES (DIRECTEMENT SUR LA NOTE)
 
@@ -38,5 +36,5 @@
 
 ## NOTE FINALE
 
-- Points: x/40
-- Note, limitée entre 1 et 6 = 1 + 5 * x/40 - y
+- Points: x/32
+- Note, limitée entre 1 et 6 = 1 + 5 * x/32 - y
